@@ -1,3 +1,3 @@
 # leetcode
 
-https://leetcode.com/
+https://leetcode.com/im_gm/
