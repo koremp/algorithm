@@ -5,8 +5,12 @@ boj, leetcode, programmers code and study
 ## boj
 
 boj, solved.ac 풀이
-
+현재 Class 2 문제 풀이중
 ## leetcode
+
+https://leetcode.com/im_gm/
+
+아직 접속도 안해봄
 
 ## programmers code
 
