@@ -1,3 +1,8 @@
+# 함수에서 return 까먹지 말기
+
+왜냐면 계속 함수에서 안쓰고 main에서 while문 돌리고 그래서 까먹었음
+
+```python
 # https://www.acmicpc.net/problem/2805
 
 from sys import stdin
@@ -27,3 +32,4 @@ n, m = map(int, stdin.readline().split(" "))
 heights = list(map(int, stdin.readline().split(" ")))
 
 print(findMax(heights))
+```
