@@ -1,0 +1,135 @@
+repo_name: koremp/algorithm
+report_id: 53ce934b2140592705b5a94d9aa9589b
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-20T02:58:39+00:00'
+requested_by: koremp
+provider: github
+branch: main
+detected_tools_count: 10
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/koremp/algorithm
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/koremp/algorithm
+  detection_source: Repo Metadata
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/package.json
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/koremp/algorithm
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 28.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/yarn.lock
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/yarn.lock
+  detection_source: programmers_challenge/yarn.lock
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/package.json
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 28.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/yarn.lock
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 15.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/yarn.lock
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/koremp/algorithm/blob/main/programmers_challenge/yarn.lock
+  detection_source: programmers_challenge/package.json
+  last_updated_by: Dokyun Lim
+  last_updated_on: 2022-07-29 02:19:41.000000000 Z
